@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" width="100%">
+</p>
+
 # Hi, I'm Devashish Upreti 👋
 **Software Engineer | Full-Stack Web Developer**
 
@@ -8,7 +12,7 @@
 ## 👨‍💻 About Me
 
 <div align="justify">
-I am Devashish Upreti, a full-stack web developer passionate about building modern, responsive, and user-friendly applications. I have strong skills in C, C++, JavaScript, TypeScript, HTML, CSS, React.js, Node.js, Express.js, and MongoDB, and I use Tailwind CSS, SQL, and development tools like Git, Postman, and VS Code to deliver seamless solutions. Additionally, I am proficient in LaTeX for professional documentation, Canva for design, and CursorAi for productivity, which help me bring creativity and efficiency to every project. I thrive in collaborative environments and enjoy learning, innovating, and contributing to impactful projects.
+A full-stack web developer passionate about building modern, responsive, and user-friendly applications. I have strong skills in C, C++, JavaScript, TypeScript, HTML, CSS, React.js, Node.js, Express.js, and MongoDB, and I use Tailwind CSS, SQL, and development tools like Git, Postman, and VS Code to deliver seamless solutions. Additionally, I am proficient in LaTeX for professional documentation, Canva for design, and CursorAi for productivity, which help me bring creativity and efficiency to every project. I thrive in collaborative environments and enjoy learning, innovating, and contributing to impactful projects.
 
   </div>
 ---
