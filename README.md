@@ -1,13 +1,14 @@
 <p align="center">
-  <img src="banner.png" width="100%">
+  <img src="banner2.png" width="100%">
 </p>
 
-# Hi, I'm Devashish Upreti 👋
-**Software Engineer | Full-Stack Web Developer**
+## Welcome to my github!
 
 [LinkedIn](https://https://www.linkedin.com/in/devashish-upreti-427311235/) · [GitHub](https://github.com/devCodeUp03) · [Email](mailto:devashup68@gmail.com) · [WhatsApp](https://wa.me/9810148768)
 
 ---
+
+
 
 ## 👨‍💻 About Me
 
